@@ -21,7 +21,7 @@ Share progress and build a portfolio of work.
 
 🛠️ Tools & Libraries 
 
-Python
+Python 
 
 Pandas & NumPy → Data cleaning and manipulation
 
