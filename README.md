@@ -3,7 +3,7 @@ DSN Bootcamp – Dataset Analysis
 
 This repository contains my work for the Data Science Nigeria (DSN) Bootcamp, centered on analyzing a single dataset. It is a space to practice core data science concepts, explore techniques, and document insights gained throughout the program.
 
-📂 Repository Contents  
+📂 Repository Contents 
 
 The dataset used for analysis.
 
