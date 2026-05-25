@@ -19,7 +19,7 @@ Apply concepts learned during the DSN Bootcamp to real data.
 
 Share progress and build a portfolio of work.
 
-🛠️ Tools & Libraries
+🛠️ Tools & Libraries 
 
 Python
 
