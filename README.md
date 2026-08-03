@@ -11,7 +11,7 @@ Jupyter notebooks with cleaning, exploration, and modeling steps.
 
 Visualizations, findings, or reports generated from the analysis.
 
-🎯 Goals
+🎯 Goals 
 
 Practice essential data analysis and machine learning skills.
 
