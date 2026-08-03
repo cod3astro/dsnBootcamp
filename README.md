@@ -27,4 +27,4 @@ Pandas & NumPy → Data cleaning and manipulation
 
 Matplotlib & Seaborn → Data visualization
 
-Sklearn → Basic modeling
+Sklearn → Basic modeling 
